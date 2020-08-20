@@ -1,0 +1,6 @@
+
+{
+java:S1488 "^Immediately return this expression instead of assigning it to the temporary variable "retVal".(½µÄ¡8óÍƒ¸.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(€Äìé8óÍƒ¸.
+I
+java:S1068"'Remove this unused "LOG" private field.(¼Êæåıÿÿÿÿ8óÍƒ¸.

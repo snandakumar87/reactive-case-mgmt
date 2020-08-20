@@ -1,0 +1,19 @@
+
+E
+java:S1148l"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8µîÍƒ¸.
+v
+java:S1128"YRemove this unused import 'com.myspace.offermanagement.validation.RiskValidationPayload'.(úÚÄø8µîÍƒ¸.
+N
+java:S1128"1Remove this unused import 'java.math.BigDecimal'.(êêŠ8µîÍƒ¸.
+h
+java:S1854`"FRemove this useless assignment to local variable "potentialFraudFact".( ƒŒ²ûÿÿÿÿ8µîÍƒ¸.
+Z	java:S106T"9Replace this use of System.out or System.err by a logger.(à”Àøÿÿÿÿ8µîÍƒ¸.
+Z	java:S106u"9Replace this use of System.out or System.err by a logger.(Û¬çŞøÿÿÿÿ8µîÍƒ¸.
+[	java:S106"9Replace this use of System.out or System.err by a logger.(¤­«ûÿÿÿÿ8µîÍƒ¸.
+V	java:S106†"9Replace this use of System.out or System.err by a logger.(ª8µîÍƒ¸.
+Y
+java:S1481`"7Remove this unused "potentialFraudFact" local variable.( ƒŒ²ûÿÿÿÿ8µîÍƒ¸.
+I
+java:S1068"",Remove this unused "KSESSION" private field.(ëµ³¤8µîÍƒ¸.
+U
+java:S1144"7Remove this unused private "customerDataLookup" method.(ÙÌ°8µîÍƒ¸.

@@ -1,0 +1,7 @@
+
+E
+java:S1148Z"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8‘ìÍƒ¸.
+Z	java:S106@"9Replace this use of System.out or System.err by a logger.(à”Àøÿÿÿÿ8‘ìÍƒ¸.
+Z	java:S106P"9Replace this use of System.out or System.err by a logger.(§Ë‘°ùÿÿÿÿ8‘ìÍƒ¸.
+I
+java:S1068",Remove this unused "KSESSION" private field.(ëµ³¤8‘ìÍƒ¸.

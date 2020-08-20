@@ -1,0 +1,5 @@
+com/myspace/offermanagement/validation/RiskValidationPayload.class
+com/myspace/offermanagement/validation/FraudValidationPayload.class
+com/myspace/offermanagement/customerModel/CustomerModel.class
+com/myspace/offermanagement/validation/AccountValidationPayload.class
+com/myspace/offermanagement/transactionmodel/Transaction.class
